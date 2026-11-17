@@ -1,0 +1,4 @@
+id,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+1,TRACK001,Burna Boy,Love Damini,Last Last,85,169000,false,0.75,0.82,6,-5.2,1,0.08,0.12,0.00,0.11,0.78,120.5,4,afrobeats
+2,TRACK002,Wizkid,Made in Lagos,Essence,90,248000,false,0.82,0.65,8,-6.1,1,0.06,0.21,0.00,0.09,0.88,104.2,4,afrobeats
+3,TRACK003,Drake,Views,One Dance,95,173000,false,0.77,0.62,1,-5.8,1,0.05,0.18,0.00,0.10,0.79,104.9,4,pop
